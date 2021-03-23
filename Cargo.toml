@@ -5,5 +5,7 @@ authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
 edition = "2018"
 description = "Option-like taking for everyting with a default value."
 license = "MIT"
+repository = "https://github.com/DenisKolodin/taker"
+readme = "README.md"
 
 [dependencies]
